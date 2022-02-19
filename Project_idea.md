@@ -1,4 +1,5 @@
 # Project Idea: Analysis of terrorism across the globe between 1990 and 2019
+__Authors: Sharon Kirwa and Catherine Nderitu__
 
 The goal is to understand how to explore, analyze and visualize data using R. We will draw data from different data sources, tidy the data, transform (i.e. create new tibbles) 
 and visualize the data to provide insight on the tasks below. 
